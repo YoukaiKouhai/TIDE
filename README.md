@@ -23,22 +23,22 @@ Genome engineering technologies like CRISPR/Cas9 allow for targeted genetic modi
 - Plots chromatograms, indel spectra, and aberrant sequence signals.
 - Calculates inserted nucleotide probabilities for +1 insertions.
 
-## Installation
+## Installation 
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/username/genome-engineering-tide.git
+    (blank)
     ```
 2. **Navigate to the directory**:
     ```
-    cd genome-engineering-tide
+    (blank)
     ```
 3. **Install the required Python packages**:
     You can install the required packages using `pip`:
     ```
-    pip install -r requirements.txt
+    (blank)
     ```
-    Alternatively, if you do not have a `requirements.txt` file, manually install the dependencies:
+    Alternatively, manually install the dependencies:
     ```
     pip install numpy matplotlib biopython pandas
     ```
